@@ -1,3 +1,3 @@
 # Lifeforest_NH
 Life Forest, Hillsborough NH
-<iframe src="index.html" height="500" width="500"></iframe>
+<iframe src="testmap.html" height="5000" width="5000"></iframe>
