@@ -1,1 +1,1 @@
-<iframe src="map.html" height="500" width="500"></iframe>
+<iframe src="testmap.html" height="1000" width="1000"></iframe>
